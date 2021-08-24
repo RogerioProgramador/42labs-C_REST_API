@@ -1,0 +1,1 @@
+# Rotas não implementadas: POST, PUT, DELETE e PATCH
